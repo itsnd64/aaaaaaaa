@@ -1,0 +1,344 @@
+{
+    "code": 0,
+    "message": "Thực hiện thành công",
+    "data": {
+        "idExam": 0,
+        "subjectName": null,
+        "excersiseName": null,
+        "timeDoing": 0,
+        "startTime": 0,
+        "game": {
+            "ExamType": 1,
+            "examCode": "",
+            "gameId": 0,
+            "examKey": "C097D8.0009001",
+            "Subject": {
+                "dataType": 0,
+                "content": "Match an English word/phrase with its Vietnamese meaning.\r\n",
+                "type": 0,
+                "contentId": 0,
+                "Id": 555431,
+                "subjectId": 4796,
+                "orderTrue": 0
+            },
+            "question": [
+                {
+                    "id": 1326128,
+                    "Point": 10,
+                    "type": 7,
+                    "Description": {
+                        "dataType": 0,
+                        "content": "",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 0,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "dip",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 279397,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "nhúng",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 895788,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 25
+                },
+                {
+                    "id": 1326129,
+                    "Point": 10,
+                    "type": 7,
+                    "Description": {
+                        "dataType": 0,
+                        "content": "",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 0,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "manual",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 279398,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "thủ công",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 895789,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 25
+                },
+                {
+                    "id": 1326127,
+                    "Point": 10,
+                    "type": 7,
+                    "Description": {
+                        "dataType": 0,
+                        "content": "",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 0,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "shallot",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 279396,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "hành khô",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 895787,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 25
+                },
+                {
+                    "id": 1326126,
+                    "Point": 10,
+                    "type": 7,
+                    "Description": {
+                        "dataType": 0,
+                        "content": "",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 0,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "dessert",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 279395,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "món tráng miệng",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 895786,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 25
+                },
+                {
+                    "id": 1326125,
+                    "Point": 10,
+                    "type": 7,
+                    "Description": {
+                        "dataType": 0,
+                        "content": "",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 0,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "starter",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 279394,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "món khai vị",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 895785,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 25
+                },
+                {
+                    "id": 1326130,
+                    "Point": 10,
+                    "type": 7,
+                    "Description": {
+                        "dataType": 0,
+                        "content": "",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 0,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "flyover",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 279399,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "cầu vượt",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 895790,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 25
+                }
+            ],
+            "ans": [
+                {
+                    "questId": 0,
+                    "ans": "hành khô",
+                    "Tans": null,
+                    "point": 0,
+                    "position": 0,
+                    "examCount": 0,
+                    "actionDesc": null,
+                    "dataType": 0
+                },
+                {
+                    "questId": 0,
+                    "ans": "món tráng miệng",
+                    "Tans": null,
+                    "point": 0,
+                    "position": 0,
+                    "examCount": 0,
+                    "actionDesc": null,
+                    "dataType": 0
+                },
+                {
+                    "questId": 0,
+                    "ans": "cầu vượt",
+                    "Tans": null,
+                    "point": 0,
+                    "position": 0,
+                    "examCount": 0,
+                    "actionDesc": null,
+                    "dataType": 0
+                },
+                {
+                    "questId": 0,
+                    "ans": "thủ công",
+                    "Tans": null,
+                    "point": 0,
+                    "position": 0,
+                    "examCount": 0,
+                    "actionDesc": null,
+                    "dataType": 0
+                },
+                {
+                    "questId": 0,
+                    "ans": "món khai vị",
+                    "Tans": null,
+                    "point": 0,
+                    "position": 0,
+                    "examCount": 0,
+                    "actionDesc": null,
+                    "dataType": 0
+                },
+                {
+                    "questId": 0,
+                    "ans": "nhúng",
+                    "Tans": null,
+                    "point": 0,
+                    "position": 0,
+                    "examCount": 0,
+                    "actionDesc": null,
+                    "dataType": 0
+                }
+            ],
+            "totalPoint": 60
+        },
+        "start": false,
+        "examTime": 1200,
+        "timeserver": 1739761277,
+        "user": {
+            "AccountType": 0,
+            "AccountId": 1290335232,
+            "AccountName": "donguyenhao03",
+            "FullName": "Khúc Ngọc Dương ",
+            "GradeLevel": 0,
+            "round": 21,
+            "Level": 21,
+            "Point": 0,
+            "provinName": null
+        },
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZExlYXJuRnJtIjoyNSwic3RhcnRUaW1lIjoxNzM5NzYxMjY4LCJmZ1NlYyI6MCwidXJsZ2FtZSI6IiIsInJlZGlyZWN0VXJsIjoiaHR0cHM6Ly9pb2Uudm4vdHUtbHV5ZW4_dj02Mzg3NTM4MzI2NzcwMTAyNzQiLCJ1c2VybmFtZSI6bnVsbCwiZnVsbG5hbWUiOiJLaMO6YyBOZ-G7jWMgRMawxqFuZyAiLCJhY2NUb2tlbiI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpwYzNNaU9pSm9kSFJ3Y3pvdkwyVmtkUzVuYnk1MmJpSXNJbk4xWWlJNkltcFlSVXBqY0RFM2NVdDJhMXAzYnlJc0ltRjFaQ0k2SW1GalkyVnpjMTkwYjJ0bGJpSXNJbVY0Y0NJNk1UY3pPVGMyTnprMU15d2ljMmxrSWpvd0xDSmhkR3NpT2lJaUxDSmhkSGtpT2pBc0luVnBaQ0k2TVRJNU1ETXpOVEl6TWl3aWJtRnRaU0k2SW1SdmJtZDFlV1Z1YUdGdk1ETWlMQ0prZGtsa0lqb2lNVE5oTXpFNU1ETTBPR1JsTVRnNFl6WTFPREZtWkdNMU1HWm1aamc0TldZaUxDSnZjeUk2SWxkcGJtUnZkM01pTENKcGNDSTZJakV3TGpJeUxqSTJMaklpTENKemRHRWlPakV3TENKelkyOXdaWE1pT2lKYlhTSXNJbk56YnlJNk1Dd2lTWE5CZFhSb1pXNTBhV05oZEdWa0lqcDBjblZsTENKcGMwSnNiMk5ySWpwbVlXeHpaU3dpYVhOQlkzUnBkbVVpT21aaGJITmxMQ0pwYzBGamRHbDJaVTF2WW1sc1pTSTZabUZzYzJVc0ltbHpRV04wYVhabFRXRnBiQ0k2Wm1Gc2MyVjkubkRxQTF4NjNxdXBNTGN5cF84SGJtZ1hzTVl4b3ZSUzhQalprOFdNYTdRcyIsImV4YW1UcCI6MSwicHJvdmluY2VfaWQiOjMxLCJ2aWxsYWdlX2lkIjoyOTksInNjaG9vbF9pZCI6MTEyMzQsInJvdW5kX0N1cnIiOjMzLCJleEluZGV4IjozLCJ1c2VySWQiOjAsImlfYmxvY2siOjksImV4S2V5IjoiQzA5N0Q4LjAwMDkwMDEiLCJpc3MiOiJodHRwczovL2VkdS5nby52biIsImlkRXhlcmNpc2UiOjAsIm5hbWUiOiJkb25ndXllbmhhbzAzIiwiZHZJZCI6bnVsbCwib3MiOiIiLCJpcCI6IjE0LjE5MC4yNC4xNTQiLCJ1aWQiOjEyOTAzMzUyMzIsImF0eSI6Miwic2lkIjowLCJhdGsiOiIiLCJzdWIiOm51bGwsImF1ZCI6ImFjY2Vzc190b2tlbiIsImV4cCI6MTczOTc2ODQ2OH0.mYjIxQcv9pvF9ddFzTPne6UfDBEE6KXimPD5p2uVLkE",
+        "gameDesc": "Answer the questions correctly to help Edna the starfish solve a jigsaw puzzle. \r\nChoose 2 appropriate cards to make a correct pair. You will get points for each correct answer and deserved results with each score range you achieve.\r\nCheck your score and completion time at the end of the test.\r\nThe test is over when you submit all your answers or the time is up.",
+        "listDesc": null,
+        "timeAuto": 0,
+        "flagViewLocation": 0,
+        "timeStartEndRound": null
+    },
+    "IsSuccessed": true,
+    "HaveError": false,
+    "redirectUrl": "https://ioe.vn/tu-luyen?v=638753832677010274",
+    "token_expired": false,
+    "nextStep": 0
+}

@@ -1,0 +1,40 @@
+{
+    "api_key": "gameioe",
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZExlYXJuRnJtIjoyNSwic3RhcnRUaW1lIjoxNzM5NzYxMzYwLCJmZ1NlYyI6MCwidXJsZ2FtZSI6IiIsInJlZGlyZWN0VXJsIjoiaHR0cHM6Ly9pb2Uudm4vdHUtbHV5ZW4_dj02Mzg3NTM4MzM1OTg3MTYyMTgiLCJ1c2VybmFtZSI6bnVsbCwiZnVsbG5hbWUiOiJLaMO6YyBOZ-G7jWMgRMawxqFuZyAiLCJhY2NUb2tlbiI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpwYzNNaU9pSm9kSFJ3Y3pvdkwyVmtkUzVuYnk1MmJpSXNJbk4xWWlJNkltcFlSVXBqY0RFM2NVdDJhMXAzYnlJc0ltRjFaQ0k2SW1GalkyVnpjMTkwYjJ0bGJpSXNJbVY0Y0NJNk1UY3pPVGMyTnprMU15d2ljMmxrSWpvd0xDSmhkR3NpT2lJaUxDSmhkSGtpT2pBc0luVnBaQ0k2TVRJNU1ETXpOVEl6TWl3aWJtRnRaU0k2SW1SdmJtZDFlV1Z1YUdGdk1ETWlMQ0prZGtsa0lqb2lNVE5oTXpFNU1ETTBPR1JsTVRnNFl6WTFPREZtWkdNMU1HWm1aamc0TldZaUxDSnZjeUk2SWxkcGJtUnZkM01pTENKcGNDSTZJakV3TGpJeUxqSTJMaklpTENKemRHRWlPakV3TENKelkyOXdaWE1pT2lKYlhTSXNJbk56YnlJNk1Dd2lTWE5CZFhSb1pXNTBhV05oZEdWa0lqcDBjblZsTENKcGMwSnNiMk5ySWpwbVlXeHpaU3dpYVhOQlkzUnBkbVVpT21aaGJITmxMQ0pwYzBGamRHbDJaVTF2WW1sc1pTSTZabUZzYzJVc0ltbHpRV04wYVhabFRXRnBiQ0k2Wm1Gc2MyVjkubkRxQTF4NjNxdXBNTGN5cF84SGJtZ1hzTVl4b3ZSUzhQalprOFdNYTdRcyIsImV4YW1UcCI6MSwicHJvdmluY2VfaWQiOjMxLCJ2aWxsYWdlX2lkIjoyOTksInNjaG9vbF9pZCI6MTEyMzQsInJvdW5kX0N1cnIiOjMzLCJleEluZGV4IjozLCJ1c2VySWQiOjAsImlfYmxvY2siOjksImV4S2V5IjoiREM2N0Q2LjAwMDkwMDEiLCJpc3MiOiJodHRwczovL2VkdS5nby52biIsImlkRXhlcmNpc2UiOjAsIm5hbWUiOiJkb25ndXllbmhhbzAzIiwiZHZJZCI6bnVsbCwib3MiOiIiLCJpcCI6IjE0LjE5MC4yNC4xNTQiLCJ1aWQiOjEyOTAzMzUyMzIsImF0eSI6Miwic2lkIjowLCJhdGsiOiIiLCJzdWIiOm51bGwsImF1ZCI6ImFjY2Vzc190b2tlbiIsImV4cCI6MTczOTc2ODU2MH0.3WW9VVKMynsgp041y5EJ-1c5_G_R68FeNvMJr7YuA5g",
+    "serviceCode": "IOE",
+    "examKey": "DC67D6.0009001",
+    "ans": [
+        {
+            "questId": 1622020,
+            "ans": "Grandparents|Ông bà",
+            "Point": 10
+        },
+        {
+            "questId": 1622024,
+            "ans": "Traditional market|Chợ truyền thống",
+            "Point": 10
+        },
+        {
+            "questId": 1622025,
+            "ans": "Harvest|Thu hoạch",
+            "Point": 10
+        },
+        {
+            "questId": 1622022,
+            "ans": "Lantern|Đèn lồng",
+            "Point": 10
+        },
+        {
+            "questId": 1622023,
+            "ans": "Gathering|Sự sum họp",
+            "Point": 10
+        },
+        {
+            "questId": 1622021,
+            "ans": "Rice field|Cánh đồng lúa",
+            "Point": 10
+        }
+    ],
+    "IPClient": "",
+    "deviceId": ""
+}

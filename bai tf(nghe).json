@@ -1,0 +1,427 @@
+{
+    "code": 0,
+    "message": "Thực hiện thành công",
+    "data": {
+        "idExam": 0,
+        "subjectName": null,
+        "excersiseName": null,
+        "timeDoing": 0,
+        "startTime": 0,
+        "game": {
+            "ExamType": 1,
+            "examCode": "",
+            "gameId": 0,
+            "examKey": "2D908F.0009001",
+            "Subject": null,
+            "question": [
+                {
+                    "id": 1622333,
+                    "Point": 10,
+                    "type": 1,
+                    "Description": {
+                        "dataType": 2,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/2024/K9/TLL925R2204.mp3",
+                        "type": 2,
+                        "contentId": 0,
+                        "Id": 298782,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "The man works long hours.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 549691,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 0,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 11
+                },
+                {
+                    "id": 1622332,
+                    "Point": 10,
+                    "type": 1,
+                    "Description": {
+                        "dataType": 2,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/2024/K9/TLL925R2203.mp3",
+                        "type": 2,
+                        "contentId": 0,
+                        "Id": 298790,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "The woman saw a really good movie.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 549653,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 0,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 11
+                },
+                {
+                    "id": 1326373,
+                    "Point": 10,
+                    "type": 1,
+                    "Description": {
+                        "dataType": 2,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/Tu_luyen/L9/vong22/game24/9-22-24-27.mp3",
+                        "type": 2,
+                        "contentId": 0,
+                        "Id": 216011,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "There are wild animals living in Kenya.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 449802,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 0,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 1326370,
+                    "Point": 10,
+                    "type": 1,
+                    "Description": {
+                        "dataType": 2,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/Tu_luyen/L9/vong22/game24/9-22-24-24.mp3",
+                        "type": 2,
+                        "contentId": 0,
+                        "Id": 216014,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "There are penguins and tortoises living in the Galapagos Island.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 449805,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 0,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 1326374,
+                    "Point": 10,
+                    "type": 1,
+                    "Description": {
+                        "dataType": 2,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/Tu_luyen/L9/vong22/game24/9-22-24-28.mp3",
+                        "type": 2,
+                        "contentId": 0,
+                        "Id": 216010,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "She has never seen animals in a zoo.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 449801,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 0,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 1326362,
+                    "Point": 10,
+                    "type": 1,
+                    "Description": {
+                        "dataType": 2,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/Tu_luyen/L9/vong22/game24/9-22-24-16.mp3",
+                        "type": 2,
+                        "contentId": 0,
+                        "Id": 36150,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "The girl could swim since she was one.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 148541,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 0,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 1326361,
+                    "Point": 10,
+                    "type": 1,
+                    "Description": {
+                        "dataType": 2,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/Tu_luyen/L9/vong22/game24/9-22-24-15.mp3",
+                        "type": 2,
+                        "contentId": 0,
+                        "Id": 36149,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "The boy is scared of water.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 148540,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 0,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 1622335,
+                    "Point": 10,
+                    "type": 1,
+                    "Description": {
+                        "dataType": 2,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/2024/K9/TLL925R2206.mp3",
+                        "type": 2,
+                        "contentId": 0,
+                        "Id": 298781,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "The man hates owning a restaurant.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 549663,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 0,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 11
+                },
+                {
+                    "id": 1326364,
+                    "Point": 10,
+                    "type": 1,
+                    "Description": {
+                        "dataType": 2,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/Tu_luyen/L9/vong22/game24/9-22-24-18.mp3",
+                        "type": 2,
+                        "contentId": 0,
+                        "Id": 36152,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "The boy suggests that his mother teach the girl.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 148543,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 0,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 1326356,
+                    "Point": 10,
+                    "type": 1,
+                    "Description": {
+                        "dataType": 2,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/Tu_luyen/L9/vong22/game24/9-22-24-10.mp3",
+                        "type": 2,
+                        "contentId": 0,
+                        "Id": 216018,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "The king was sad because there were few colours in his country.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 449809,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 0,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                }
+            ],
+            "ans": [],
+            "totalPoint": 100
+        },
+        "start": false,
+        "examTime": 1200,
+        "timeserver": 1739762092,
+        "user": {
+            "AccountType": 0,
+            "AccountId": 1290335232,
+            "AccountName": "donguyenhao03",
+            "FullName": "Khúc Ngọc Dương ",
+            "GradeLevel": 0,
+            "round": 22,
+            "Level": 22,
+            "Point": 0,
+            "provinName": null
+        },
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZExlYXJuRnJtIjoxMSwic3RhcnRUaW1lIjoxNzM5NzYyMDgyLCJmZ1NlYyI6MCwidXJsZ2FtZSI6IiIsInJlZGlyZWN0VXJsIjoiaHR0cHM6Ly9pb2Uudm4vdHUtbHV5ZW4_dj02Mzg3NTM4NDA4MTg3NjAwMDIiLCJ1c2VybmFtZSI6bnVsbCwiZnVsbG5hbWUiOiJLaMO6YyBOZ-G7jWMgRMawxqFuZyAiLCJhY2NUb2tlbiI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpwYzNNaU9pSm9kSFJ3Y3pvdkwyVmtkUzVuYnk1MmJpSXNJbk4xWWlJNkltcFlSVXBqY0RFM2NVdDJhMXAzYnlJc0ltRjFaQ0k2SW1GalkyVnpjMTkwYjJ0bGJpSXNJbVY0Y0NJNk1UY3pPVGMyTnprMU15d2ljMmxrSWpvd0xDSmhkR3NpT2lJaUxDSmhkSGtpT2pBc0luVnBaQ0k2TVRJNU1ETXpOVEl6TWl3aWJtRnRaU0k2SW1SdmJtZDFlV1Z1YUdGdk1ETWlMQ0prZGtsa0lqb2lNVE5oTXpFNU1ETTBPR1JsTVRnNFl6WTFPREZtWkdNMU1HWm1aamc0TldZaUxDSnZjeUk2SWxkcGJtUnZkM01pTENKcGNDSTZJakV3TGpJeUxqSTJMaklpTENKemRHRWlPakV3TENKelkyOXdaWE1pT2lKYlhTSXNJbk56YnlJNk1Dd2lTWE5CZFhSb1pXNTBhV05oZEdWa0lqcDBjblZsTENKcGMwSnNiMk5ySWpwbVlXeHpaU3dpYVhOQlkzUnBkbVVpT21aaGJITmxMQ0pwYzBGamRHbDJaVTF2WW1sc1pTSTZabUZzYzJVc0ltbHpRV04wYVhabFRXRnBiQ0k2Wm1Gc2MyVjkubkRxQTF4NjNxdXBNTGN5cF84SGJtZ1hzTVl4b3ZSUzhQalprOFdNYTdRcyIsImV4YW1UcCI6MSwicHJvdmluY2VfaWQiOjMxLCJ2aWxsYWdlX2lkIjoyOTksInNjaG9vbF9pZCI6MTEyMzQsInJvdW5kX0N1cnIiOjM0LCJleEluZGV4Ijo0LCJ1c2VySWQiOjAsImlfYmxvY2siOjksImV4S2V5IjoiMkQ5MDhGLjAwMDkwMDEiLCJpc3MiOiJodHRwczovL2VkdS5nby52biIsImlkRXhlcmNpc2UiOjAsIm5hbWUiOiJkb25ndXllbmhhbzAzIiwiZHZJZCI6bnVsbCwib3MiOiIiLCJpcCI6IjE0LjE5MC4yNC4xNTQiLCJ1aWQiOjEyOTAzMzUyMzIsImF0eSI6Miwic2lkIjowLCJhdGsiOiIiLCJzdWIiOm51bGwsImF1ZCI6ImFjY2Vzc190b2tlbiIsImV4cCI6MTczOTc2OTI4Mn0.HS8wwghXIxOUmIogV4hwN7XlfsRvilt27n1aTf8wWRk",
+        "gameDesc": "The beach is full of trash. Join IOE's team now to clean the beach!\r\nListen carefully and decide whether the given statement is true or false by choosing the relevant button. You can replay the recording if necessary. You have 20 minutes to answer all the questions. \r\nYou will get points for each correct answer and deserved results with each score range you achieve.\r\nCheck your score and completion time at the end of the test. \r\nThe test is over when you submit all your answers or the time is up.",
+        "listDesc": null,
+        "timeAuto": 0,
+        "flagViewLocation": 0,
+        "timeStartEndRound": null
+    },
+    "IsSuccessed": true,
+    "HaveError": false,
+    "redirectUrl": "https://ioe.vn/tu-luyen?v=638753840818760002",
+    "token_expired": false,
+    "nextStep": 0
+}
