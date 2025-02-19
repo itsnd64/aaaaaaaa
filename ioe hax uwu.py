@@ -5,9 +5,9 @@
 #TODO: startgame's responce is datetime
 #TODO: send startgame after getinfo so time is 0s
 
-from time import time
+from time import time, sleep
 t = time()
-import requests,json,os,subprocess,argparse
+import requests,json,os,subprocess,argparse #type:ignore NIGGA I CANT STOP THE WARNINGGGGGGGG
 parser = argparse.ArgumentParser()
 parser.add_argument("-d", "--debug_lvl", type=int, choices=range(0, 3), default=1, help="debug lvl thing")
 parser.add_argument("-b1", "--b1", action='store_true', help="b1")
@@ -65,12 +65,14 @@ except KeyError:#handle getinfo
     r = input_thing
     #post a start game thing to start it
     requests.post("https://api-edu.go.vn/ioe-service/v2/game/startgame",headers=headers,data=json.dumps({"api_key": api_key,"token": token, "gameId":0, "examKey": examKey, "IPClient": "","deviceId": "",}),)
+    startTime = time()
 else:#handle startgame
     print("Got startgame")
     token = input_thing["token"]
     api_key = input_thing["api_key"]
     examKey = input_thing["examKey"]
     r = json.loads(requests.post("https://api-edu.go.vn/ioe-service/v2/game/getinfo",headers=headers,data=json.dumps({"IPClient": "","deviceId": "","api_key": api_key,"token": token}),).text)
+    startTime = 1200 - r["data"]["examTime"] #FIXME: THIS IS FIXEDDDDDDDDDDDD,mb wrong
 
 try:
     questions = r["data"]["game"]["question"]
@@ -84,6 +86,10 @@ except TypeError:
 def checkans(ans :str = "",qid :str = "",point :int = 10,isfinishgame :bool = False,fans :str = ""):
     """Finishgame syntax:{"ans": ans,"qid": qid,"point": 10/20/etc},..."""#weird
     if isfinishgame:
+        elapsed_time = time() - startTime # Calculate the time elapsed since the game started
+        remaining_time = max(0, 5 - elapsed_time) # Ensure we don't sleep for negative time
+        print(f"Elapsed time: {elapsed_time:.4f}s, Sleeping for {remaining_time:.4f}s")
+        sleep(remaining_time) # Sleep for the remaining time to complete the game
         finishgamejson = {
             "api_key": api_key,
             "token": token,
@@ -91,11 +97,7 @@ def checkans(ans :str = "",qid :str = "",point :int = 10,isfinishgame :bool = Fa
             "examKey": examKey,
             "ans": json.loads(f'[{fans}]')
         }
-        # print(finishgamejson)
-        r3 = json.loads(requests.post(
-        "https://api-edu.go.vn/ioe-service/v2/game/finishgame",
-        json=finishgamejson,
-    ).text) 
+        r3 = json.loads(requests.post("https://api-edu.go.vn/ioe-service/v2/game/finishgame",json=finishgamejson,).text) 
         vdprint(r3)
         if r3["IsSuccessed"]:
             print(f'Điểm: {r3["data"]["totalPoint"]}\nThời gian: {r3["data"]["time"]}s')
