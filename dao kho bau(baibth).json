@@ -1,0 +1,697 @@
+{
+    "code": 0,
+    "message": "Thực hiện thành công",
+    "data": {
+        "idExam": 0,
+        "subjectName": null,
+        "excersiseName": null,
+        "timeDoing": 0,
+        "startTime": 0,
+        "game": {
+            "ExamType": 1,
+            "examCode": "",
+            "gameId": 0,
+            "examKey": "AF030C.0003001",
+            "Subject": null,
+            "question": [
+                {
+                    "id": 331,
+                    "Point": 10,
+                    "type": 10,
+                    "Description": {
+                        "dataType": 0,
+                        "content": "",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 0,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "It ... a pencil.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 14838,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "is",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 49214,
+                            "subjectId": 0,
+                            "orderTrue": 3
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "are",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 49213,
+                            "subjectId": 0,
+                            "orderTrue": 2
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "you",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 49215,
+                            "subjectId": 0,
+                            "orderTrue": 4
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "am",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 49212,
+                            "subjectId": 0,
+                            "orderTrue": 1
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 6371,
+                    "Point": 10,
+                    "type": 10,
+                    "Description": {
+                        "dataType": 0,
+                        "content": "",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 0,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "Choose the odd one out:",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 18794,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "down",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 65032,
+                            "subjectId": 0,
+                            "orderTrue": 2
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "up",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 65031,
+                            "subjectId": 0,
+                            "orderTrue": 1
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "on",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 65034,
+                            "subjectId": 0,
+                            "orderTrue": 4
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "friend",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 65033,
+                            "subjectId": 0,
+                            "orderTrue": 3
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 18248,
+                    "Point": 10,
+                    "type": 10,
+                    "Description": {
+                        "dataType": 0,
+                        "content": "",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 0,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "D...aw a picture!",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 10847,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "q",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 37906,
+                            "subjectId": 0,
+                            "orderTrue": 1
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "r",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 37908,
+                            "subjectId": 0,
+                            "orderTrue": 3
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "s",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 37909,
+                            "subjectId": 0,
+                            "orderTrue": 4
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "p",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 37907,
+                            "subjectId": 0,
+                            "orderTrue": 2
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 79,
+                    "Point": 10,
+                    "type": 10,
+                    "Description": {
+                        "dataType": 0,
+                        "content": "",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 0,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "... to meet you.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 14803,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "Get",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 49075,
+                            "subjectId": 0,
+                            "orderTrue": 4
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "Go",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 49073,
+                            "subjectId": 0,
+                            "orderTrue": 2
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "Nice",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 49074,
+                            "subjectId": 0,
+                            "orderTrue": 3
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "How",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 49072,
+                            "subjectId": 0,
+                            "orderTrue": 1
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 327,
+                    "Point": 10,
+                    "type": 10,
+                    "Description": {
+                        "dataType": 0,
+                        "content": "",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 0,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "... name is Linda.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 14834,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "Her",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 49198,
+                            "subjectId": 0,
+                            "orderTrue": 3
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "He",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 49197,
+                            "subjectId": 0,
+                            "orderTrue": 2
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "You",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 49196,
+                            "subjectId": 0,
+                            "orderTrue": 1
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "She",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 49199,
+                            "subjectId": 0,
+                            "orderTrue": 4
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 1429990,
+                    "Point": 10,
+                    "type": 10,
+                    "Description": {
+                        "dataType": 0,
+                        "content": "",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 0,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "_____ to meet you, Hoa.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 306359,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "How",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 979729,
+                            "subjectId": 0,
+                            "orderTrue": 1
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "Thank you",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 979473,
+                            "subjectId": 0,
+                            "orderTrue": 2
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "Nice",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 979449,
+                            "subjectId": 0,
+                            "orderTrue": 3
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "Thanks",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 979527,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 1430002,
+                    "Point": 10,
+                    "type": 10,
+                    "Description": {
+                        "dataType": 0,
+                        "content": "",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 0,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "What's your name? - My name is ______.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 306367,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "class",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 979613,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "Ben",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 979555,
+                            "subjectId": 0,
+                            "orderTrue": 3
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "school",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 979624,
+                            "subjectId": 0,
+                            "orderTrue": 1
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "house",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 979699,
+                            "subjectId": 0,
+                            "orderTrue": 2
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 1429994,
+                    "Point": 10,
+                    "type": 10,
+                    "Description": {
+                        "dataType": 0,
+                        "content": "",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 0,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "Hello, I'm _____.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 306344,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "book",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 979608,
+                            "subjectId": 0,
+                            "orderTrue": 3
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "house",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 979480,
+                            "subjectId": 0,
+                            "orderTrue": 2
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "family",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 979603,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "Henry",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 979677,
+                            "subjectId": 0,
+                            "orderTrue": 1
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 1430000,
+                    "Point": 10,
+                    "type": 10,
+                    "Description": {
+                        "dataType": 0,
+                        "content": "",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 0,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "My _____ is Lily.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 306380,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "good morning",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 979502,
+                            "subjectId": 0,
+                            "orderTrue": 3
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "name",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 979703,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "goodbye",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 979662,
+                            "subjectId": 0,
+                            "orderTrue": 1
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "how",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 979716,
+                            "subjectId": 0,
+                            "orderTrue": 2
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 314,
+                    "Point": 10,
+                    "type": 10,
+                    "Description": {
+                        "dataType": 0,
+                        "content": "",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 0,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "Say ... to Alan!",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 14822,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "hi",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 49150,
+                            "subjectId": 0,
+                            "orderTrue": 3
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "you",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 49149,
+                            "subjectId": 0,
+                            "orderTrue": 2
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "his",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 49148,
+                            "subjectId": 0,
+                            "orderTrue": 1
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "she",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 49151,
+                            "subjectId": 0,
+                            "orderTrue": 4
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                }
+            ],
+            "ans": [],
+            "totalPoint": 100
+        },
+        "start": false,
+        "examTime": 1200,
+        "timeserver": 1740030884,
+        "user": {
+            "AccountType": 0,
+            "AccountId": 1299689436,
+            "AccountName": "khuckieuanh3a1",
+            "FullName": "Khúc Kiều Anh",
+            "GradeLevel": 0,
+            "round": 2,
+            "Level": 2,
+            "Point": 0,
+            "provinName": null
+        },
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZExlYXJuRnJtIjoxLCJzdGFydFRpbWUiOjE3NDAwMzA4NzYsImZnU2VjIjowLCJ1cmxnYW1lIjoiIiwicmVkaXJlY3RVcmwiOiJodHRwczovL2lvZS52bi90dS1sdXllbj92PTYzODc1NjUyODc1MzcxMTYyNiIsInVzZXJuYW1lIjpudWxsLCJmdWxsbmFtZSI6Iktow7pjIEtp4buBdSBBbmgiLCJhY2NUb2tlbiI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpwYzNNaU9pSm9kSFJ3Y3pvdkwyVmtkUzVuYnk1MmJpSXNJbk4xWWlJNkltcFlSVXBqY0RFM2NVdDJhMXAzYnlJc0ltRjFaQ0k2SW1GalkyVnpjMTkwYjJ0bGJpSXNJbVY0Y0NJNk1UYzBNREF6TmpVeU15d2ljMmxrSWpvd0xDSmhkR3NpT2lJaUxDSmhkSGtpT2pBc0luVnBaQ0k2TVRJNU9UWTRPVFF6Tml3aWJtRnRaU0k2SW10b2RXTnJhV1YxWVc1b00yRXhJaXdpWkhaSlpDSTZJakV6WVRNeE9UQXpORGhrWlRFNE9HTTJOVGd4Wm1Sak5UQm1abVk0T0RWbUlpd2liM01pT2lKWGFXNWtiM2R6SWl3aWFYQWlPaUl5TVM0NU9TNHhPVGt1TnpZaUxDSnpkR0VpT2pFd0xDSnpZMjl3WlhNaU9pSmJYU0lzSW5OemJ5STZNQ3dpU1hOQmRYUm9aVzUwYVdOaGRHVmtJanAwY25WbExDSnBjMEpzYjJOcklqcG1ZV3h6WlN3aWFYTkJZM1JwZG1VaU9tWmhiSE5sTENKcGMwRmpkR2wyWlUxdlltbHNaU0k2Wm1Gc2MyVXNJbWx6UVdOMGFYWmxUV0ZwYkNJNlptRnNjMlY5LnRLcE55MmE0MUgzSU0zeTVsRVlZYlNwU3NsOWhnZkhhazFRZlNraTdXMXMiLCJleGFtVHAiOjEsInByb3ZpbmNlX2lkIjozMSwidmlsbGFnZV9pZCI6Mjk5LCJzY2hvb2xfaWQiOjExMjQ3LCJyb3VuZF9DdXJyIjoxNCwiZXhJbmRleCI6MSwidXNlcklkIjowLCJpX2Jsb2NrIjozLCJleEtleSI6IkFGMDMwQy4wMDAzMDAxIiwiaXNzIjoiaHR0cHM6Ly9lZHUuZ28udm4iLCJpZEV4ZXJjaXNlIjowLCJuYW1lIjoia2h1Y2tpZXVhbmgzYTEiLCJkdklkIjpudWxsLCJvcyI6IiIsImlwIjoiNDIuMTE1LjIzOS45NyIsInVpZCI6MTI5OTY4OTQzNiwiYXR5IjoyLCJzaWQiOjAsImF0ayI6IiIsInN1YiI6bnVsbCwiYXVkIjoiYWNjZXNzX3Rva2VuIiwiZXhwIjoxNzQwMDM4MDc2fQ.ZcdhRHc8-vcujsYiKaAUFBaTYrHt9BRTZ643BASkZaQ",
+        "gameDesc": "Dai the octopus is sailing his boat to different islands. Let's help him overcome obstacles to get the treasure.\r\nChoose the most suitable answer by selecting A, B, C or D. You have 20 minutes to answer all the questions.\r\nYou will get points for each correct answer and deserved results with each score range you achieve.\r\nCheck your score and completion time at the end of the test.\r\nThe test is over when you submit all your answers or the time is up.",
+        "listDesc": null,
+        "timeAuto": 0,
+        "flagViewLocation": 0,
+        "timeStartEndRound": null
+    },
+    "IsSuccessed": true,
+    "HaveError": false,
+    "redirectUrl": "https://ioe.vn/tu-luyen?v=638756528753711626",
+    "token_expired": false,
+    "nextStep": 0
+}

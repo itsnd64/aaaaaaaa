@@ -1,0 +1,427 @@
+{
+    "code": 0,
+    "message": "Thực hiện thành công",
+    "data": {
+        "idExam": 0,
+        "subjectName": null,
+        "excersiseName": null,
+        "timeDoing": 0,
+        "startTime": 0,
+        "game": {
+            "ExamType": 1,
+            "examCode": "",
+            "gameId": 0,
+            "examKey": "37F1D5.0003001",
+            "Subject": null,
+            "question": [
+                {
+                    "id": 1569617,
+                    "Point": 10,
+                    "type": 1,
+                    "Description": {
+                        "dataType": 1,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/IOE2024-2025/Tuluyen/K3/Vong1/HA/E3_V1_I1.jpg",
+                        "type": 1,
+                        "contentId": 0,
+                        "Id": 243760,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "This is a dog.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 497876,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 0,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 12
+                },
+                {
+                    "id": 1499626,
+                    "Point": 10,
+                    "type": 1,
+                    "Description": {
+                        "dataType": 1,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/IOE2023-2024/Tuluyen/Lop3/Vong1/Hinhanh/E3_V1_HA_3.jpg",
+                        "type": 1,
+                        "contentId": 0,
+                        "Id": 171514,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "There is a chair.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 366317,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 0,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 1569621,
+                    "Point": 10,
+                    "type": 1,
+                    "Description": {
+                        "dataType": 1,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/IOE2024-2025/Tuluyen/K3/Vong1/HA/E3_V1_I5.jpg",
+                        "type": 1,
+                        "contentId": 0,
+                        "Id": 243755,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "There is a bike.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 497874,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 0,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 12
+                },
+                {
+                    "id": 1569619,
+                    "Point": 10,
+                    "type": 1,
+                    "Description": {
+                        "dataType": 1,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/IOE2024-2025/Tuluyen/K3/Vong1/HA/E3_V1_I3.jpg",
+                        "type": 1,
+                        "contentId": 0,
+                        "Id": 243758,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "There is a pen.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 497878,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 0,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 12
+                },
+                {
+                    "id": 1499625,
+                    "Point": 10,
+                    "type": 1,
+                    "Description": {
+                        "dataType": 1,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/IOE2023-2024/Tuluyen/Lop3/Vong1/Hinhanh/E3_V1_HA_2.jpg",
+                        "type": 1,
+                        "contentId": 0,
+                        "Id": 171513,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "This is a girl.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 366316,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 0,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 1499630,
+                    "Point": 10,
+                    "type": 1,
+                    "Description": {
+                        "dataType": 1,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/IOE2023-2024/Tuluyen/Lop3/Vong1/Hinhanh/E3_V1_HA_7.png",
+                        "type": 1,
+                        "contentId": 0,
+                        "Id": 171518,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "There is a book.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 366321,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 0,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 1499632,
+                    "Point": 10,
+                    "type": 1,
+                    "Description": {
+                        "dataType": 1,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/IOE2023-2024/Tuluyen/Lop3/Vong1/Hinhanh/E3_V1_HA_9.jpg",
+                        "type": 1,
+                        "contentId": 0,
+                        "Id": 171520,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "There is an apple.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 366323,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 0,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 1569625,
+                    "Point": 10,
+                    "type": 1,
+                    "Description": {
+                        "dataType": 1,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/IOE2024-2025/Tuluyen/K3/Vong1/HA/E3_V1_I9.jpg",
+                        "type": 1,
+                        "contentId": 0,
+                        "Id": 243754,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "This is a mouse.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 497880,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 0,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 12
+                },
+                {
+                    "id": 1499631,
+                    "Point": 10,
+                    "type": 1,
+                    "Description": {
+                        "dataType": 1,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/IOE2023-2024/Tuluyen/Lop3/Vong1/Hinhanh/E3_V1_HA_8.jpg",
+                        "type": 1,
+                        "contentId": 0,
+                        "Id": 171519,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "This is a tree.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 366322,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 0,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 1499633,
+                    "Point": 10,
+                    "type": 1,
+                    "Description": {
+                        "dataType": 1,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/IOE2023-2024/Tuluyen/Lop3/Vong1/Hinhanh/E3_V1_HA_10.jpg",
+                        "type": 1,
+                        "contentId": 0,
+                        "Id": 171521,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "This is an orange.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 366324,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 0,
+                            "subjectId": 0,
+                            "orderTrue": 0
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                }
+            ],
+            "ans": [],
+            "totalPoint": 100
+        },
+        "start": false,
+        "examTime": 1200,
+        "timeserver": 1740017382,
+        "user": {
+            "AccountType": 0,
+            "AccountId": 1299689436,
+            "AccountName": "khuckieuanh3a1",
+            "FullName": "Khúc Kiều Anh",
+            "GradeLevel": 0,
+            "round": 1,
+            "Level": 1,
+            "Point": 0,
+            "provinName": null
+        },
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZExlYXJuRnJtIjoxMiwic3RhcnRUaW1lIjoxNzQwMDE3Mzc4LCJmZ1NlYyI6MCwidXJsZ2FtZSI6IiIsInJlZGlyZWN0VXJsIjoiaHR0cHM6Ly9pb2Uudm4vdHUtbHV5ZW4_dj02Mzg3NTYzOTM3NzUwMjE4NjEiLCJ1c2VybmFtZSI6bnVsbCwiZnVsbG5hbWUiOiJLaMO6YyBLaeG7gXUgQW5oIiwiYWNjVG9rZW4iOiJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKcGMzTWlPaUpvZEhSd2N6b3ZMMlZrZFM1bmJ5NTJiaUlzSW5OMVlpSTZJbXBZUlVwamNERTNjVXQyYTFwM2J5SXNJbUYxWkNJNkltRmpZMlZ6YzE5MGIydGxiaUlzSW1WNGNDSTZNVGMwTURBeU1URXlPU3dpYzJsa0lqb3dMQ0poZEdzaU9pSWlMQ0poZEhraU9qQXNJblZwWkNJNk1USTVPVFk0T1RRek5pd2libUZ0WlNJNkltdG9kV05yYVdWMVlXNW9NMkV4SWl3aVpIWkpaQ0k2SWpFellUTXhPVEF6TkRoa1pURTRPR00yTlRneFptUmpOVEJtWm1ZNE9EVm1JaXdpYjNNaU9pSlhhVzVrYjNkeklpd2lhWEFpT2lJeE1DNHlNaTR5Tmk0eUlpd2ljM1JoSWpveE1Dd2ljMk52Y0dWeklqb2lXMTBpTENKemMyOGlPakFzSWtselFYVjBhR1Z1ZEdsallYUmxaQ0k2ZEhKMVpTd2lhWE5DYkc5amF5STZabUZzYzJVc0ltbHpRV04wYVhabElqcG1ZV3h6WlN3aWFYTkJZM1JwZG1WTmIySnBiR1VpT21aaGJITmxMQ0pwYzBGamRHbDJaVTFoYVd3aU9tWmhiSE5sZlEuUmFmUm1VbUt6Nl9MMkRnWkdzNWF2eDZsZ2xWY3gxUlVHLU9WWllvOHdOZyIsImV4YW1UcCI6MSwicHJvdmluY2VfaWQiOjMxLCJ2aWxsYWdlX2lkIjoyOTksInNjaG9vbF9pZCI6MTEyNDcsInJvdW5kX0N1cnIiOjEzLCJleEluZGV4IjozLCJ1c2VySWQiOjAsImlfYmxvY2siOjMsImV4S2V5IjoiMzdGMUQ1LjAwMDMwMDEiLCJpc3MiOiJodHRwczovL2VkdS5nby52biIsImlkRXhlcmNpc2UiOjAsIm5hbWUiOiJraHVja2lldWFuaDNhMSIsImR2SWQiOm51bGwsIm9zIjoiIiwiaXAiOiIxNC4xODkuMTE4LjE3MyIsInVpZCI6MTI5OTY4OTQzNiwiYXR5IjoyLCJzaWQiOjAsImF0ayI6IiIsInN1YiI6bnVsbCwiYXVkIjoiYWNjZXNzX3Rva2VuIiwiZXhwIjoxNzQwMDI0NTc4fQ.QFsD5kxRXsnxlthWkh8g5Cigvt6ajEl_x7r41vojylY",
+        "gameDesc": "The beach is full of trash. Join IOE's team now to clean the beach!\r\nLook at each picture and decide whether the given statement is true or false by choosing the relevant button. You have 20 minutes to answer all the questions. \r\nYou will get points for each correct answer and deserved results with each score range you achieve.\r\nCheck your score and completion time at the end of the test. \r\nThe test is over when you submit all your answers or the time is up.",
+        "listDesc": null,
+        "timeAuto": 0,
+        "flagViewLocation": 0,
+        "timeStartEndRound": null
+    },
+    "IsSuccessed": true,
+    "HaveError": false,
+    "redirectUrl": "https://ioe.vn/tu-luyen?v=638756393775021861",
+    "token_expired": false,
+    "nextStep": 0
+}

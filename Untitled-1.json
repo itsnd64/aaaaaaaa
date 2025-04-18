@@ -1,0 +1,30 @@
+{
+    "api_key": "gameioe",
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZExlYXJuRnJtIjoxNCwic3RhcnRUaW1lIjoxNzQzMTc1ODc1LCJmZ1NlYyI6MCwidXJsZ2FtZSI6IiIsInJlZGlyZWN0VXJsIjoiaHR0cHM6Ly9pb2Uudm4vdHUtbHV5ZW4_dj02Mzg3ODc5Nzg3NDU3MzA4MjQiLCJ1c2VybmFtZSI6bnVsbCwiZnVsbG5hbWUiOiJLaMO6YyBLaeG7gXUgQW5oIiwiYWNjVG9rZW4iOiJleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpJVXpJMU5pSjkuZXlKcGMzTWlPaUpvZEhSd2N6b3ZMMlZrZFM1bmJ5NTJiaUlzSW5OMVlpSTZJbXBZUlVwamNERTNjVXQyYTFwM2J5SXNJbUYxWkNJNkltRmpZMlZ6YzE5MGIydGxiaUlzSW1WNGNDSTZNVGMwTXpFNE16QTFOQ3dpYzJsa0lqb3dMQ0poZEdzaU9pSWlMQ0poZEhraU9qQXNJblZwWkNJNk1UTXdOemswTnpJd015d2libUZ0WlNJNkltdG9kV05yYVdWMVlXNW9ObUVpTENKa2RrbGtJam9pTVRKbE9XRmhNek01T1dVeFlqRTNObUV6TlRBMVlXVXpOV1F3WldRMFlqQWlMQ0p2Y3lJNklsZHBibVJ2ZDNNaUxDSnBjQ0k2SWpFM01TNHlNalV1TWpBeUxqWTNJaXdpYzNSaElqb3hNQ3dpYzJOdmNHVnpJam9pVzEwaUxDSnpjMjhpT2pBc0lrbHpRWFYwYUdWdWRHbGpZWFJsWkNJNmRISjFaU3dpYVhOQ2JHOWpheUk2Wm1Gc2MyVXNJbWx6UVdOMGFYWmxJanBtWVd4elpTd2lhWE5CWTNScGRtVk5iMkpwYkdVaU9tWmhiSE5sTENKcGMwRmpkR2wyWlUxaGFXd2lPbVpoYkhObGZRLjhBOTJrcHl4bDZjaDltdU9Tc19IWU5kS0V5UlhzMGJXRHBOWVF5SWh4bTgiLCJleGFtVHAiOjEsInByb3ZpbmNlX2lkIjozMSwidmlsbGFnZV9pZCI6Mjk5LCJzY2hvb2xfaWQiOjExMjM0LCJyb3VuZF9DdXJyIjo0MCwiZXhJbmRleCI6NCwidXNlcklkIjowLCJpX2Jsb2NrIjo2LCJleEtleSI6IkE0MTY1Ny4wMDA2MDAxIiwiaXNzIjoiaHR0cHM6Ly9lZHUuZ28udm4iLCJpZEV4ZXJjaXNlIjowLCJuYW1lIjoia2h1Y2tpZXVhbmg2YSIsImR2SWQiOm51bGwsIm9zIjoiIiwiaXAiOiIxNzEuMjI1LjIwMi42NyIsInVpZCI6MTMwNzk0NzIwMywiYXR5IjoyLCJzaWQiOjAsImF0ayI6IiIsInN1YiI6bnVsbCwiYXVkIjoiYWNjZXNzX3Rva2VuIiwiZXhwIjoxNzQzMTgzMDc1fQ.KtRs7igXB9r_gUT_p8jcFAZ7W76wxVj8dkDl88hWD2A",
+    "serviceCode": "IOE",
+    "examKey": "A41657.0006001",
+    "ans": [
+        {
+            "questId": 1638649,
+            "point": 25,
+            "ans": "True"
+        },
+        {
+            "questId": 1638648,
+            "point": 25,
+            "ans": "False"
+        },
+        {
+            "questId": 1638650,
+            "point": 25,
+            "ans": "False"
+        },
+        {
+            "questId": 1638651,
+            "point": 25,
+            "ans": "False"
+        }
+    ],
+    "IPClient": "",
+    "deviceId": ""
+}

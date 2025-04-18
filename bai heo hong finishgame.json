@@ -1,0 +1,15 @@
+{
+    "api_key": "gameioe",
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZExlYXJuRnJtIjoyMSwic3RhcnRUaW1lIjoxNzQyOTE5MjkwLCJmZ1NlYyI6MCwidXJsZ2FtZSI6IiIsInJlZGlyZWN0VXJsIjoiaHR0cHM6Ly9pb2Uudm4vdHUtbHV5ZW4_dj02Mzg3ODU0MTI4OTg0NjMwMjkiLCJ1c2VybmFtZSI6bnVsbCwiZnVsbG5hbWUiOiJLaMO6YyBOZ-G7jWMgRMawxqFuZyAiLCJhY2NUb2tlbiI6ImV5SjBlWEFpT2lKS1YxUWlMQ0poYkdjaU9pSklVekkxTmlKOS5leUpwYzNNaU9pSm9kSFJ3Y3pvdkwyVmtkUzVuYnk1MmJpSXNJbk4xWWlJNkltcFlSVXBqY0RFM2NVdDJhMXAzYnlJc0ltRjFaQ0k2SW1GalkyVnpjMTkwYjJ0bGJpSXNJbVY0Y0NJNk1UYzBNamt5TVRRMU9Td2ljMmxrSWpvd0xDSmhkR3NpT2lJaUxDSmhkSGtpT2pBc0luVnBaQ0k2TVRJNU1ETXpOVEl6TWl3aWJtRnRaU0k2SW1SdmJtZDFlV1Z1YUdGdk1ETWlMQ0prZGtsa0lqb2lNVE5oTXpFNU1ETTBPR1JsTVRnNFl6WTFPREZtWkdNMU1HWm1aamc0TldZaUxDSnZjeUk2SWxkcGJtUnZkM01pTENKcGNDSTZJakUzTVM0eU1qVXVNakF5TGpZM0lpd2ljM1JoSWpveE1Dd2ljMk52Y0dWeklqb2lXMTBpTENKemMyOGlPakFzSWtselFYVjBhR1Z1ZEdsallYUmxaQ0k2ZEhKMVpTd2lhWE5DYkc5amF5STZabUZzYzJVc0ltbHpRV04wYVhabElqcG1ZV3h6WlN3aWFYTkJZM1JwZG1WTmIySnBiR1VpT21aaGJITmxMQ0pwYzBGamRHbDJaVTFoYVd3aU9tWmhiSE5sZlEudWgwZFMyS3ZiS0kyQ2hRRFF0b2lrY0g2bGdHeUhHZzI3S09RQW55b0RuSSIsImV4YW1UcCI6MSwicHJvdmluY2VfaWQiOjMxLCJ2aWxsYWdlX2lkIjoyOTksInNjaG9vbF9pZCI6MTEyMzQsInJvdW5kX0N1cnIiOjQwLCJleEluZGV4IjoyLCJ1c2VySWQiOjAsImlfYmxvY2siOjksImV4S2V5IjoiOTUwMThCLjAwMDkwMDEiLCJpc3MiOiJodHRwczovL2VkdS5nby52biIsImlkRXhlcmNpc2UiOjAsIm5hbWUiOiJkb25ndXllbmhhbzAzIiwiZHZJZCI6bnVsbCwib3MiOiIiLCJpcCI6IjE3MS4yMjUuMjAyLjY3IiwidWlkIjoxMjkwMzM1MjMyLCJhdHkiOjIsInNpZCI6MCwiYXRrIjoiIiwic3ViIjpudWxsLCJhdWQiOiJhY2Nlc3NfdG9rZW4iLCJleHAiOjE3NDI5MjY0OTB9.S1SWuIPgoDpTkq5kj_JTwQvmaP7dQ66zDkXHCWmhOx4",
+    "serviceCode": "IOE",
+    "examKey": "95018B.0009001",
+    "ans": [
+        {
+            "questId": 1555109,
+            "ans": "on|is|between|time|planet|are|been|future|system|have",
+            "Point": 100
+        }
+    ],
+    "IPClient": "",
+    "deviceId": ""
+}

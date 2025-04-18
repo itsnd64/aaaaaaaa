@@ -1,0 +1,697 @@
+{
+    "code": 0,
+    "message": "Thực hiện thành công",
+    "data": {
+        "idExam": 0,
+        "subjectName": null,
+        "excersiseName": null,
+        "timeDoing": 0,
+        "startTime": 0,
+        "game": {
+            "ExamType": 1,
+            "examCode": "",
+            "gameId": 0,
+            "examKey": "0A4232.0006001",
+            "Subject": null,
+            "question": [
+                {
+                    "id": 1349908,
+                    "Point": 10,
+                    "type": 10,
+                    "Description": {
+                        "dataType": 2,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/IOE%202021-2022/Tuluyen/Lop6/Audio/Q6_G1_L6.mp3",
+                        "type": 2,
+                        "contentId": 0,
+                        "Id": 247173,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "Where’s my dog, ___?",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 501488,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "dad",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405384,
+                            "subjectId": 0,
+                            "orderTrue": 3
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "baby",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405382,
+                            "subjectId": 0,
+                            "orderTrue": 1
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "sister",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405385,
+                            "subjectId": 0,
+                            "orderTrue": 4
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "mum",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405383,
+                            "subjectId": 0,
+                            "orderTrue": 2
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 1431623,
+                    "Point": 10,
+                    "type": 10,
+                    "Description": {
+                        "dataType": 2,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/Tu_luyen/L6/vong1/game3/5.mp3",
+                        "type": 2,
+                        "contentId": 0,
+                        "Id": 247168,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "They join ___ arranging competitions.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 501483,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "seat",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405365,
+                            "subjectId": 0,
+                            "orderTrue": 4
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "book",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405362,
+                            "subjectId": 0,
+                            "orderTrue": 1
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "flower",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405363,
+                            "subjectId": 0,
+                            "orderTrue": 2
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "computer",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405364,
+                            "subjectId": 0,
+                            "orderTrue": 3
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 1431624,
+                    "Point": 10,
+                    "type": 10,
+                    "Description": {
+                        "dataType": 2,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/Tu_luyen/L6/vong1/game3/6.mp3",
+                        "type": 2,
+                        "contentId": 0,
+                        "Id": 247167,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "The contest is really ___.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 501482,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "funny",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405359,
+                            "subjectId": 0,
+                            "orderTrue": 2
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "boring",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405360,
+                            "subjectId": 0,
+                            "orderTrue": 3
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "good",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405361,
+                            "subjectId": 0,
+                            "orderTrue": 4
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "happy",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405358,
+                            "subjectId": 0,
+                            "orderTrue": 1
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 1431626,
+                    "Point": 10,
+                    "type": 10,
+                    "Description": {
+                        "dataType": 2,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/Tu_luyen/L6/vong1/game3/8.mp3",
+                        "type": 2,
+                        "contentId": 0,
+                        "Id": 247165,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "Her family has a big ___.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 501480,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "kitchen",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405352,
+                            "subjectId": 0,
+                            "orderTrue": 3
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "house",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405353,
+                            "subjectId": 0,
+                            "orderTrue": 4
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "garden",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405350,
+                            "subjectId": 0,
+                            "orderTrue": 1
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "tree",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405351,
+                            "subjectId": 0,
+                            "orderTrue": 2
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 1349909,
+                    "Point": 10,
+                    "type": 10,
+                    "Description": {
+                        "dataType": 2,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/IOE%202021-2022/Tuluyen/Lop6/Audio/Q5_G1_L6.mp3",
+                        "type": 2,
+                        "contentId": 0,
+                        "Id": 247172,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "Drive more ___, please!",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 501487,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "slowly",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405381,
+                            "subjectId": 0,
+                            "orderTrue": 4
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "faster",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405380,
+                            "subjectId": 0,
+                            "orderTrue": 3
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "better",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405378,
+                            "subjectId": 0,
+                            "orderTrue": 1
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "carefully",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405379,
+                            "subjectId": 0,
+                            "orderTrue": 2
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 1349913,
+                    "Point": 10,
+                    "type": 10,
+                    "Description": {
+                        "dataType": 2,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/EOlympic/ExamData/IOE%202021-2022/Tuluyen/Lop6/Audio/Q1_G1_L6.mp3",
+                        "type": 2,
+                        "contentId": 0,
+                        "Id": 247197,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "He goes to the ___ on weekends.",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 501512,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "bookstore",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405481,
+                            "subjectId": 0,
+                            "orderTrue": 4
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "museum",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405478,
+                            "subjectId": 0,
+                            "orderTrue": 1
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "cinema",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405480,
+                            "subjectId": 0,
+                            "orderTrue": 3
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "bakery",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405479,
+                            "subjectId": 0,
+                            "orderTrue": 2
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 77303,
+                    "Point": 10,
+                    "type": 10,
+                    "Description": {
+                        "dataType": 2,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/TAE/Media/audio/l6/v1/game9/_20120905_094645920.mp3",
+                        "type": 2,
+                        "contentId": 0,
+                        "Id": 247183,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "Do you clean your ................ ?",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 501498,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "bathroom",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405425,
+                            "subjectId": 0,
+                            "orderTrue": 4
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "kitchen",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405424,
+                            "subjectId": 0,
+                            "orderTrue": 3
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "living room",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405422,
+                            "subjectId": 0,
+                            "orderTrue": 1
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "bedroom",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405423,
+                            "subjectId": 0,
+                            "orderTrue": 2
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 77314,
+                    "Point": 10,
+                    "type": 10,
+                    "Description": {
+                        "dataType": 2,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/TAE/Media/audio/l6/v1/game9/_20120905_094918382.mp3",
+                        "type": 2,
+                        "contentId": 0,
+                        "Id": 247190,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "What does he play?",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 501505,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "badminton",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405453,
+                            "subjectId": 0,
+                            "orderTrue": 4
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "volleyball",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405451,
+                            "subjectId": 0,
+                            "orderTrue": 2
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "football",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405450,
+                            "subjectId": 0,
+                            "orderTrue": 1
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "basketball",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405452,
+                            "subjectId": 0,
+                            "orderTrue": 3
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 77307,
+                    "Point": 10,
+                    "type": 10,
+                    "Description": {
+                        "dataType": 2,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/TAE/Media/audio/l6/v1/game9/_20120905_094340860.mp3",
+                        "type": 2,
+                        "contentId": 0,
+                        "Id": 247179,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "What color is the board?",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 501494,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "new",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405409,
+                            "subjectId": 0,
+                            "orderTrue": 4
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "white",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405407,
+                            "subjectId": 0,
+                            "orderTrue": 2
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "black",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405408,
+                            "subjectId": 0,
+                            "orderTrue": 3
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "red",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 1405406,
+                            "subjectId": 0,
+                            "orderTrue": 1
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                },
+                {
+                    "id": 77310,
+                    "Point": 10,
+                    "type": 10,
+                    "Description": {
+                        "dataType": 2,
+                        "content": "https://cdn-s3.vtconline.vn/ioe-resource-02/filePublish/ioe/TAE/Media/audio/l6/v1/game9/_20120905_095134796.mp3",
+                        "type": 2,
+                        "contentId": 0,
+                        "Id": 20928,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "content": {
+                        "dataType": 0,
+                        "content": "What is the woman asking about?",
+                        "type": 0,
+                        "contentId": 0,
+                        "Id": 75148,
+                        "subjectId": 0,
+                        "orderTrue": 0
+                    },
+                    "ans": [
+                        {
+                            "dataType": 0,
+                            "content": "the birthday cake",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 256958,
+                            "subjectId": 0,
+                            "orderTrue": 3
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "the birthday present",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 256957,
+                            "subjectId": 0,
+                            "orderTrue": 2
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "the birthday card",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 256956,
+                            "subjectId": 0,
+                            "orderTrue": 1
+                        },
+                        {
+                            "dataType": 0,
+                            "content": "the birthday party",
+                            "type": 0,
+                            "contentId": 0,
+                            "Id": 256959,
+                            "subjectId": 0,
+                            "orderTrue": 4
+                        }
+                    ],
+                    "tans": [],
+                    "numTChar": 0,
+                    "STT": 0,
+                    "exerciseFormat": 0
+                }
+            ],
+            "ans": [],
+            "totalPoint": 100
+        },
+        "start": false,
+        "examTime": 1200,
+        "timeserver": 1741770214,
+        "user": {
+            "AccountType": 0,
+            "AccountId": 1304997132,
+            "AccountName": "khucngocduong9a",
+            "FullName": "khuc ngoc duong",
+            "GradeLevel": 0,
+            "round": 1,
+            "Level": 1,
+            "Point": 0,
+            "provinName": null
+        },
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZExlYXJuRnJtIjozLCJzdGFydFRpbWUiOjE3NDE3NzAyMDgsImZnU2VjIjowLCJ1cmxnYW1lIjoiIiwicmVkaXJlY3RVcmwiOiJodHRwczovL2lvZS52bi90dS1sdXllbj92PTYzODc3MzkyMjA3NzM2ODczMCIsInVzZXJuYW1lIjpudWxsLCJmdWxsbmFtZSI6ImtodWMgbmdvYyBkdW9uZyIsImFjY1Rva2VuIjoiZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnBjM01pT2lKb2RIUndjem92TDJWa2RTNW5ieTUyYmlJc0luTjFZaUk2SW1wWVJVcGpjREUzY1V0MmExcDNieUlzSW1GMVpDSTZJbUZqWTJWemMxOTBiMnRsYmlJc0ltVjRjQ0k2TVRjME1UYzNOams0TWl3aWMybGtJam93TENKaGRHc2lPaUlpTENKaGRIa2lPakFzSW5WcFpDSTZNVE13TkRrNU56RXpNaXdpYm1GdFpTSTZJbXRvZFdOdVoyOWpaSFZ2Ym1jNVlTSXNJbVIyU1dRaU9pSXhNMkV6TVRrd016UTRaR1V4T0Roak5qVTRNV1prWXpVd1ptWm1PRGcxWmlJc0ltOXpJam9pVjJsdVpHOTNjeUlzSW1sd0lqb2lNakV1TXpVdU1UQXdMamt4SWl3aWMzUmhJam94TUN3aWMyTnZjR1Z6SWpvaVcxMGlMQ0p6YzI4aU9qQXNJa2x6UVhWMGFHVnVkR2xqWVhSbFpDSTZkSEoxWlN3aWFYTkNiRzlqYXlJNlptRnNjMlVzSW1selFXTjBhWFpsSWpwbVlXeHpaU3dpYVhOQlkzUnBkbVZOYjJKcGJHVWlPbVpoYkhObExDSnBjMEZqZEdsMlpVMWhhV3dpT21aaGJITmxmUS5FZURFTnl3VVlrbW80dlZSOGVhcDdySlQzeFhTTjFPYVBPTmNoLVhzTEVFIiwiZXhhbVRwIjoxLCJwcm92aW5jZV9pZCI6MzEsInZpbGxhZ2VfaWQiOjI5OSwic2Nob29sX2lkIjoxMTIzNCwicm91bmRfQ3VyciI6MTMsImV4SW5kZXgiOjQsInVzZXJJZCI6MCwiaV9ibG9jayI6NiwiZXhLZXkiOiIwQTQyMzIuMDAwNjAwMSIsImlzcyI6Imh0dHBzOi8vZWR1LmdvLnZuIiwiaWRFeGVyY2lzZSI6MCwibmFtZSI6ImtodWNuZ29jZHVvbmc5YSIsImR2SWQiOm51bGwsIm9zIjoiIiwiaXAiOiIxLjU1LjY5LjI1MiIsInVpZCI6MTMwNDk5NzEzMiwiYXR5IjoyLCJzaWQiOjAsImF0ayI6IiIsInN1YiI6bnVsbCwiYXVkIjoiYWNjZXNzX3Rva2VuIiwiZXhwIjoxNzQxNzc3NDA4fQ.kgKHjBVPayK8dCwkSFhhc4LPQ9n1RM8A9r18Li51d1I",
+        "gameDesc": "You are on the way to reach the top of Mount Fansipan with obstacles. In order to overcome them, you have to answer the questions. \r\nListen carefully and choose the most suitable answer by selecting A, B, C or D. You can replay the recording if necessary. You have 20 minutes to answer all the questions. \r\nYou will get points for each correct answer and deserved results with each score range you achieve.\r\nCheck your score and completion time at the end of the test.\r\nThe test is over when you submit all your answers or the time is up.",
+        "listDesc": null,
+        "timeAuto": 0,
+        "flagViewLocation": 0,
+        "timeStartEndRound": null
+    },
+    "IsSuccessed": true,
+    "HaveError": false,
+    "redirectUrl": "https://ioe.vn/tu-luyen?v=638773922077368730",
+    "token_expired": false,
+    "nextStep": 0
+}
