@@ -39,7 +39,7 @@ from openai import OpenAI
 import assemblyai as aai
 client = OpenAI(api_key=openaikey)
 client.api_key = openaikey
-aai.settings.api_key = "7f3e7dc553424aa69ac6bac196daa1e9"   #sorry myself,hope this wont cause too much trouble
+aai.settings.api_key = ""   #sorry myself,hope this wont cause too much trouble
 vdprint(f"api key: {time()-t:.4f}s");t = time()
 
 def timer(f):
